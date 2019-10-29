@@ -25,6 +25,6 @@
     "mysql": "^2.15.0",
     "mysql2": "^1.5.3",
     "sendgrid": "^2.0.0",
-    "sequelize": "^4.37.8"
+    "sequelize": "^5.15.1"
   }
 }
